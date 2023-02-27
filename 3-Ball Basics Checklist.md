@@ -14,15 +14,19 @@ The **Cascade Progression** and **Columns Progression** should be worked on at t
 - [ ] The W
 - [ ] Columns (One Up, Two Up)
 - [ ] Fake Columns
+- 4-Ball Fountain
 
 ### Shower Progression
 - **Prerequisites:** Half Shower and Two-in-One
 - [ ] Half-Box (441)
 - [ ] Shower
+- [ ] Box
 
 ### Solo Tricks
 - **Prerequisites:** Cascade
+- [ ] Clawing
 - [ ] Throw Under Leg (both hands/legs)
+- [ ] Penguin Catch (both hands)
 - [ ] Bounce Off Knee
 - [ ] Backcross
 
