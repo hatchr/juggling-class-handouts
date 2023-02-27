@@ -1,6 +1,6 @@
 ## 3-Ball Juggling Basics
 
-The **Cascade Progression** and **Columns Progression** should be worked on at the same time, starting at the top and working your way to the bottom.
+Start with the **Cascade Progression** and the **Columns Progression**, working from top to bottom. Once you get the cascade, you can also visit **Solo Tricks** and **Partner Tricks**.
 
 ### Cascade Progression
 - [ ] Cascade
@@ -23,7 +23,6 @@ The **Cascade Progression** and **Columns Progression** should be worked on at t
 - [ ] Box
 
 ### Solo Tricks
-- **Prerequisites:** Cascade
 - [ ] Clawing
 - [ ] Throw Under Leg (both hands/legs)
 - [ ] Penguin Catch (both hands)
@@ -31,7 +30,6 @@ The **Cascade Progression** and **Columns Progression** should be worked on at t
 - [ ] Backcross
 
 ### Partner Tricks
-- **Prerequisites:** Cascade
 - [ ] Snake Steal ([vid](https://youtu.be/OQ2rVmV2nKU?t=152))
 - [ ] Front Steal
 - [ ] Side Steal
