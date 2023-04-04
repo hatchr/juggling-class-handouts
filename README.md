@@ -1,7 +1,7 @@
 # About
 This is a place to store handouts for my juggling class and get feedback from the juggling community.
 
-## 3-Ball Basics
+## 3-Ball Basics Checklist
 This a syllabus outlining the (rough) order in which various juggling patterns will be taught. If someone tells me they "know the basic", these are the patterns and tricks that I'd expect them to know. (This is admittedly subjective!)
 
 ## To-Do List
