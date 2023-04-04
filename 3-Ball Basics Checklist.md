@@ -33,3 +33,9 @@ Start with the **Cascade Progression** and the **Columns Progression**, working 
 - [ ] Side Steal
 - [ ] Slow Runaround
 - [ ] 4-Count Passing
+
+### Passing Tricks
+**Prerequisites:** 4-Count Passing
+- [ ] Easy 360
+- [ ] Left-Hand Crossing Double
+- [ ] Right-Hand Crossing Double
