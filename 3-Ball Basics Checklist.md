@@ -12,7 +12,7 @@ Start with the **Cascade Progression** and the **Columns Progression**, working 
 - [ ] Two-in-One (both hands)
 - [ ] The W (423)
 - [ ] Columns (One Up, Two Up)
-- [ ] Fake Columns
+- [ ] Fake Columns (Yo-Yo)
 - 4-Ball Fountain
 
 ### Shower Progression
